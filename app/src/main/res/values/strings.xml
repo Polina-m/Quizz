@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Android quiz</string>
+    <string name="section1_title">General questions</string>
+    <string name="section2_title">Specific questions</string>
+    <string name="Custom_answer">Give your answer</string>
+    <string name="footer">For Android Basics Udacity course | 2018</string>
+
+    <!--Questions General section-->
+    <string name="Question1">1. What is Android based on (made with)?</string>
+
+        <string name="Q1_answer1">Java </string>
+        <string name="Q1_answer2">Python</string>
+        <string name="Q1_answer3">Linux </string>
+        <string name="Q1_answer4">C#</string>
+
+    <string name="Question2">2. What was replaced by Android Studio?</string>
+    <string name="Question3"> 3. When was the first Android version was published?</string>
+        <string name="Q3_answer1">2008 </string>
+        <string name="Q3_answer2">2009-2011</string>
+        <string name="Q3_answer3">2012-2014</string>
+        <string name="Q3_answer4">2015-2018</string>
+
+    <!--Questions Specific section-->
+
+    <string name="Question4">4. What are the main components of the Project Structure Overview? </string>
+
+    <string name="Q4_answer1">AndroidManifest.xml </string>
+    <string name="Q4_answer2">src/java/…</string>
+    <string name="Q4_answer3">res/… </string>
+    <string name="Q4_answer4">Gradle</string>
+
+    <string name="Question5">5. What is Gradle?</string>
+    <string name="Question6">6. AndroidManifest.xml is a place for..</string>
+    <string name="Question7">7. What is NOT included into the Resource files?</string>
+
+        <string name="Q7_answer1">Images</string>
+        <string name="Q7_answer2">Descriptions of GUI format</string>
+        <string name="Q7_answer3">Overall app menu options</string>
+        <string name="Q7_answer4">Constant values and arrays</string>
+        <string name="Q7_answer5">Localization data</string>
+        <string name="Q7_answer6">General appearance styling</string>
+        <string name="Q7_answer7">Java classes</string>
+        <string name="Q7_answer8">Gradle Scripts</string>
+
+
+    <!--Buttons-->
+    <string name="btn_submit">Submit</string>
+    <string name="btn_reset">Reset</string>
+
+    <!--Right answers-->
+    <string name="rightAnswer_Q4">all variants</string>
+    <string name="rightAnswer_Q5">The build and compile management system for Java</string>
+    <string name="rightAnswer_Q6">Overall config and settings</string>
+    <string name="rightAnswer_Q7">Java classes, Gradle Scripts</string>
+
+    <!--Info note-->
+    <string name="congratulation">Congratulations! You have no mistakes!</string>
+    <string name="earnings">You have earned&#160;</string>
+    <string name="outOfPoints">/7 points!</string>
+    <string name="answerCorrectly">Right answers to questions are:</string>
+
+
+</resources>

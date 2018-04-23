@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Android quiz</string>
+    <string name="section1_title">Yleisiä kysymyksiä</string>
+    <string name="section2_title">Erityiskysymyksiä</string>
+    <string name="Custom_answer">Anna vastauksesi</string>
+    <string name="footer">Android Perusteet Udacity kurssi | 2018</string>
+
+
+    <!--Questions General section-->
+    <string name="Question1">1. Mitä Android perustuu (on tehty)?</string>
+
+        <string name="Q1_answer1">Java </string>
+        <string name="Q1_answer2">Python</string>
+        <string name="Q1_answer3">Linux </string>
+        <string name="Q1_answer4">C#</string>
+
+    <string name="Question2">2. Mikä korvasi Android Studio?</string>
+    <string name="Question3"> 3. Milloin julkaistiin ensimmäinen Android-versio?</string>
+        <string name="Q3_answer1">2008 </string>
+        <string name="Q3_answer2">2009-2011</string>
+        <string name="Q3_answer3">2012-2014</string>
+        <string name="Q3_answer4">2015-2018</string>
+
+    <!--Questions Specific section-->
+
+    <string name="Question4">4. Mitkä ovat projektin rakenneikkunan pääkomponentit? </string>
+
+    <string name="Q4_answer1">AndroidManifest.xml </string>
+    <string name="Q4_answer2">src/java/…</string>
+    <string name="Q4_answer3">res/… </string>
+    <string name="Q4_answer4">Gradle</string>
+
+    <string name="Question5">5. Mitä on Gradle?</string>
+    <string name="Question6">6. AndroidManifest.xml on paikka, jossa ..</string>
+    <string name="Question7">7. Mitä EI sisälly Resource-tiedostoihin?</string>
+
+        <string name="Q7_answer1">Kuvat</string>
+        <string name="Q7_answer2">Kuvaukset GUI-muodossa</string>
+        <string name="Q7_answer3">Yleiset sovellusvalikkovaihtoehdot</string>
+        <string name="Q7_answer4">Vakioarvot ja taulukot</string>
+        <string name="Q7_answer5">Lokaloitustiedot</string>
+        <string name="Q7_answer6">Yleinen ulkonäkö muotoilu</string>
+        <string name="Q7_answer7">Java-luokat</string>
+        <string name="Q7_answer8">Gradle Scriptia</string>
+
+    <!--Buttons-->
+    <string name="btn_submit">Lähteä</string>
+    <string name="btn_reset">Tyhjätä</string>
+
+    <!--Right answers-->
+    <string name="rightAnswer_Q4">kaikki vaihtoehdot</string>
+    <string name="rightAnswer_Q5">Rakenna ja koota hallintajärjestelmä Java</string>
+    <string name="rightAnswer_Q6">Yleiset asetukset ja asetukset</string>
+    <string name="rightAnswer_Q7">Java-luokat ja Gradle Scriptia</string>
+
+    <!--Info note-->
+    <string name="congratulation">Onnea! Sinulla ei ole virheitä!</string>
+    <string name="earnings">Olet ansainnut&#160;</string>
+    <string name="outOfPoints">/7 pistettä!</string>
+    <string name="answerCorrectly">Oikeat vastaukset kysymyksiin ovat:</string>
+
+</resources>
